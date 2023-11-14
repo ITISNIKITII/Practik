@@ -1,0 +1,2 @@
+# Practik
+Pectik repozitory
